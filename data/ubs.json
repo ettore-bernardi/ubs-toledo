@@ -1,0 +1,568 @@
+[
+  {
+    "id": 2,
+    "nome": "EAP Centro de Saúde",
+    "tipo": "EAP",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/eap-centro-de-saude",
+    "equipes": [
+      "03 Equipes de EAP",
+      "01 EAP Prisional",
+      "02 Equipes de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "EAP CENTRO DE SAUDE",
+        "endereco": "Rua Almirante Tamandaré, 736 - Centro",
+        "telefone": "(45) 3196-3310",
+        "whatsapp": "(45) 99154-6518",
+        "email": "ubs.centro@toledo.pr.gov.br",
+        "gerente": "Rejane Ecker",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 19:00",
+        "lat": -24.739023,
+        "lng": -53.734963,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "EAP Dois Irmãos/Vila Ipiranga",
+    "tipo": "EAP",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/eap-dois-irmaosvila-ipiranga",
+    "equipes": [
+      "01 Equipe EAP"
+    ],
+    "unidades": [
+      {
+        "nome": "EAP DOIS IRMÃOS - INTERIOR OESTE",
+        "endereco": "Rua Maripa, 501",
+        "telefone": "(45) 3196-3250",
+        "whatsapp": "(45) 99146-2835",
+        "email": "ubs.interioroeste@toledo.pr.gov.br",
+        "gerente": null,
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 13:00",
+        "lat": -24.730832,
+        "lng": -53.569924,
+        "geocode_confianca": "media"
+      },
+      {
+        "nome": "UNIDADE VOLANTE VILA IPIRANGA - INTERIOR OESTE",
+        "endereco": "Rua Pres Costa e Silva, 1119",
+        "telefone": "(45) 3196-3245",
+        "whatsapp": "(45) 3196-3245",
+        "email": "ubs.interioroeste@toledo.pr.gov.br",
+        "gerente": null,
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 13:00",
+        "lat": -24.621287,
+        "lng": -53.926113,
+        "geocode_confianca": "manual"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "EAP Jardim Coopagro",
+    "tipo": "EAP",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/eap-jardim-coopagro",
+    "equipes": [
+      "03 Equipes de EAP",
+      "02 Equipes de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "EAP JARDIM COOPAGRO",
+        "endereco": "Av. Ministro Cirne Lima, 3215 - Jd. Coopagro",
+        "telefone": "(45) 3196-3180 / (45) 3196-3181",
+        "whatsapp": "(45) 3196-3180 (somente para recados)",
+        "email": "ubs.coopagro@toledo.pr.gov.br",
+        "gerente": "Gilson Salvador",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 19:00",
+        "lat": -24.701477,
+        "lng": -53.765335,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "EAP Jardim Porto Alegre",
+    "tipo": "EAP",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/eap-jardim-porto-alegre",
+    "equipes": [
+      "03 Equipes de EAP",
+      "02 Equipes de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "EAP JARDIM PORTO ALEGRE",
+        "endereco": "Rua Julio Verne, 1367 - Jd. Porto Alegre, esquina com Rua Adilson Bier",
+        "telefone": "(45) 3196-3160 / (45) 3196-3161",
+        "whatsapp": "(45) 991067425",
+        "email": "ubs.portoalegre@toledo.pr.gov.br",
+        "gerente": "Eunice Manoela de Oliveira",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 19:00",
+        "lat": -24.716975,
+        "lng": -53.714312,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "EAP Novo Sobradinho",
+    "tipo": "EAP",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/eap-novo-sobradinho",
+    "equipes": [
+      "01 Equipe EAP",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "EAP NOVO SOBRADINHO - INTERIOR NOROESTE",
+        "endereco": "Rua Independência S/N",
+        "telefone": "(45) 3196-3225",
+        "whatsapp": "(45) 3196-3225",
+        "email": "ubs.inteiornoroeste@toledo.pr.gov.br",
+        "gerente": "Fernanda Cristina Mucelini",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 13:00",
+        "lat": -24.728246,
+        "lng": -53.744361,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "EAP Vila Industrial",
+    "tipo": "EAP",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/eap-vila-industrial",
+    "equipes": [
+      "02 Equipes de EAP",
+      "02 Equipes de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "EAP VILA INDUSTRIAL",
+        "endereco": "Rua Santo Ângelo, 1418 - Vila Industrial",
+        "telefone": "(45) 3196-3200 / (45) 3196-3201",
+        "whatsapp": "(45) 99105-1432",
+        "email": "ubs.industrial@toledo.pr.gov.br",
+        "gerente": "Janaina Ultado Dutra",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 19:00",
+        "lat": -24.710614,
+        "lng": -53.743153,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "EAP_ESF Jardim Maracanã",
+    "tipo": "EAP/ESF",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/eapesf-jardim-maracana",
+    "equipes": [
+      "01 ESF",
+      "02 Equipes de EAP",
+      "02 Equipes de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "EAP JARDIM MARACANÃ",
+        "endereco": "Rua do Herval, 1042 - Jd. Maracanã",
+        "telefone": "(45) 3196-3190 / (45) 3196-3192",
+        "whatsapp": "(45) 991440704",
+        "email": "ubsmaracana.gerencia@gmail.com",
+        "gerente": "Janaina Ultado Dutra",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 19:00",
+        "lat": -24.74874,
+        "lng": -53.720275,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "ESF Dez de Maio",
+    "tipo": "ESF",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esf-dez-de-maio",
+    "equipes": [
+      "01 Equipe ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESF DEZ DE MAIO - INTERIOR OESTE",
+        "endereco": "Rua Cerro Largo S/N",
+        "telefone": "(45) 3196-3240",
+        "whatsapp": "(45) 3196-3240",
+        "email": "ubs.interioroeste@toledo.pr.gov.br",
+        "gerente": null,
+        "horario_funcionamento": "Segunda a sexta-feira das 07:30 às 16:30",
+        "lat": -24.734559,
+        "lng": -53.569019,
+        "geocode_confianca": "media"
+      },
+      {
+        "nome": "UNIDADE VOLANTE CERRO DA LOLA - INTERIOR OESTE",
+        "endereco": "Estrada Rural Quinto Bordignon",
+        "telefone": null,
+        "whatsapp": null,
+        "email": null,
+        "gerente": null,
+        "horario_funcionamento": "Quartas e Quintas das 14:30 às 16:30",
+        "lat": -24.677356,
+        "lng": -53.917106,
+        "geocode_confianca": "manual"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "ESFSB Alto Panorama",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-alto-panorama",
+    "equipes": [
+      "03 Equipes de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB ALTO DO PANORAMA",
+        "endereco": "Rua Jose Meneguetti, 147 - Jd. Panorama",
+        "telefone": "(45) 3196-3205 / (45) 3196-3207 / (45) 3196-3208",
+        "whatsapp": "(45) 991116278",
+        "email": "ubs.altopanorama@toledo.pr.gov.br",
+        "gerente": "Yasmin Luiza Dendo Lombardo",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 17:00",
+        "lat": -24.762796,
+        "lng": -53.723638,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "ESFSB Bressan/Cezar Parque",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-bressancezar-parque",
+    "equipes": [
+      "02 Equipes de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESF BRESSAN/CEZAR PARQUE",
+        "endereco": "Rua Eugenio Comin, 591 - Cezar Parque",
+        "telefone": "(45) 3196-3150 / (45) 3196-3151",
+        "whatsapp": "(45) 991011346",
+        "email": "ubs.bressan@toledo.pr.gov.br",
+        "gerente": "Claudia Bonifácio Andrade",
+        "horario_funcionamento": "Segunda a sexta-feira das 08:00 às 17:00",
+        "lat": -24.748584,
+        "lng": -53.739987,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "ESFSB Cosmos",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-cosmos",
+    "equipes": [
+      "04 Equipes de ESF",
+      "01 EMULTI Complementar",
+      "02 Equipes de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB COSMOS",
+        "endereco": "Rua Eugênio Gustavo Keller, 1660 – Cosmos",
+        "telefone": "(45) 3196-3170 / (45) 3196-3171",
+        "whatsapp": "(45) 991450414",
+        "email": "ubs.cosmos@toledo.pr.gov.br",
+        "gerente": "Cristina Andrea Baron",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 19:00",
+        "lat": -24.704402,
+        "lng": -53.768848,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "ESF Interior Leste - São Luiz e Bom Princípio",
+    "tipo": "ESF",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esf-interior-leste-sao-luiz",
+    "equipes": [
+      "01 Equipe de ESF"
+    ],
+    "unidades": [
+      {
+        "nome": "ESF SÃO LUIZ - INTERIOR LESTE",
+        "endereco": "Rua Presidente Kennedy S/N",
+        "telefone": "(45) 3196-3165 / (45) 3196-3270",
+        "whatsapp": "(45) 99828-2118",
+        "email": "ubs.interiorleste@toledo.pr.gov.br",
+        "gerente": null,
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 16:00",
+        "lat": -24.734265,
+        "lng": -53.570316,
+        "geocode_confianca": "manual"
+      },
+      {
+        "nome": "UNIDADE VOLANTE BOM PRINCÍPIO - INTERIOR LESTE",
+        "endereco": "Rua Matelandia, S/N",
+        "telefone": null,
+        "whatsapp": null,
+        "email": null,
+        "gerente": null,
+        "horario_funcionamento": "Terças-feiras 07:30-10:30 | Quintas-feiras 13:30-15:30 | Sextas-feiras 07:30-10:30",
+        "lat": -24.773655,
+        "lng": -53.642156,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "ESF Interior Oeste - Concórdia do Oeste",
+    "tipo": "ESF",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esf-interior-oeste",
+    "equipes": [
+      "01 Equipe de ESF"
+    ],
+    "unidades": [
+      {
+        "nome": "ESF INTERIOR OESTE - CONCORDIA DO OESTE",
+        "endereco": "Avenida Santo Campagnolo S/N",
+        "telefone": "(45) 3196-3235",
+        "whatsapp": "(45) 99122-6834",
+        "email": "ubs.interioroeste@toledo.pr.gov.br",
+        "gerente": null,
+        "horario_funcionamento": "Segunda a sexta-feira das 07:30 às 16:30",
+        "lat": -24.712201,
+        "lng": -53.85005,
+        "geocode_confianca": "manual"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "ESFSB Jardim Concórdia",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-jardim-concordia",
+    "equipes": [
+      "02 Equipes de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB JARDIM CONCÓRDIA",
+        "endereco": "Rua Pedro Rosseto, 468",
+        "telefone": "(45) 3196-3264",
+        "whatsapp": "(45) 991226834",
+        "email": "ubs.jardimconcordia@toledo.pr.gov.br",
+        "gerente": "Michelle Fátima Dries",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 17:00",
+        "lat": -24.72376,
+        "lng": -53.71298,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "ESFSB Jardim Europa",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-jardim-europa",
+    "equipes": [
+      "04 Equipes de ESF",
+      "02 Equipes de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB JARDIM EUROPA",
+        "endereco": "Rua Valerio Lambaré, 40 - Jd. Europa",
+        "telefone": "(45) 3196-3195 / (45) 3196-3198",
+        "whatsapp": "(45) 991121849",
+        "email": "ubs.europa@toledo.pr.gov.br",
+        "gerente": "Tailis Cristina da Silva",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 22:00",
+        "lat": -24.737745,
+        "lng": -53.707415,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "ESFSB Jardim Pancera",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-jardim-pancera",
+    "equipes": [
+      "03 Equipes de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB JARDIM PANCERA",
+        "endereco": "Rua Guaíra, 1060 - Jd. Pancera",
+        "telefone": "(45) 3196-3155 / (45) 3196-3156",
+        "whatsapp": "(45) 3196-3155",
+        "email": "ubs.pancera@toledo.pr.gov.br",
+        "gerente": "Rejane Ecker",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 17:00",
+        "lat": -24.741328,
+        "lng": -53.752078,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "ESFSB Jardim Panorama",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-jardim-panorama",
+    "equipes": [
+      "04 Equipes de ESF",
+      "01 EMULTI Ampliada",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB JARDIM PANORAMA",
+        "endereco": "Travessa Itararé, 91 - Jd. Panorama",
+        "telefone": "(45) 3196-3210 / (45) 3196-3212 / (45) 3196-3211",
+        "whatsapp": "(45) 991486600",
+        "email": "ubs.panorama@toledo.pr.gov.br",
+        "gerente": "Fabiano Mazzoco",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 19:00",
+        "lat": -24.759668,
+        "lng": -53.735335,
+        "geocode_confianca": "manual"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "ESFSB Novo Sarandi",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-novo-sarandi",
+    "equipes": [
+      "01 Equipe de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB NOVO SARANDI",
+        "endereco": "Rua Belo Horizonte S/N",
+        "telefone": "(45) 3196-3255",
+        "whatsapp": "(45) 991557959",
+        "email": "ubs.inteiornoroeste@toledo.pr.gov.br",
+        "gerente": "Fernanda Cristina Mucelini",
+        "horario_funcionamento": "Segunda a sexta-feira das 08:00 às 17:00",
+        "lat": -24.717974,
+        "lng": -53.717253,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "ESFSB Santa Clara IV",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-santa-clara-iv",
+    "equipes": [
+      "03 Equipes de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB SANTA CLARA IV",
+        "endereco": "Rua Guerino Antonio Viccari, 919 - Santa Clara IV",
+        "telefone": "(45) 3196-3175 / (45) 3196-3176",
+        "whatsapp": "(45) 991471899",
+        "email": "ubs.santaclaraiv@toledo.pr.gov.br",
+        "gerente": "Michelle Fátima Dries",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 17:00",
+        "lat": -24.750736,
+        "lng": -53.709175,
+        "geocode_confianca": "media"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "ESFSB São Francisco",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-sao-francisco",
+    "equipes": [
+      "02 Equipes de ESF",
+      "01 Equipe de Odontologia",
+      "Polo de Academia da Saúde (07:00-12:00 | 13:00-16:30)"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB SÃO FRANCISCO",
+        "endereco": "Rua Almérico Angelo Sartori, 1039 - Jd. São Francisco",
+        "telefone": "(45) 3196-3215 / (45) 3196-3216",
+        "whatsapp": "(45) 99105-3279",
+        "email": "ubs.saofrancisco@toledo.pr.gov.br",
+        "gerente": "Yasmin Luiza Dendo Lombardo",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:00 às 16:30",
+        "lat": -24.763622,
+        "lng": -53.745659,
+        "geocode_confianca": "manual"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "ESFSB Vila Nova",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-vila-nova",
+    "equipes": [
+      "01 Equipe de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB VILA NOVA",
+        "endereco": "Rua Antonio Prado, 1695 - Vila Nova",
+        "telefone": "(45) 3196-3231",
+        "whatsapp": "(45) 3196-3231",
+        "email": "ubs.inteiornoroeste@toledo.pr.gov.br",
+        "gerente": "Fernanda Cristina Mucelini",
+        "horario_funcionamento": "Segunda a sexta-feira das 08:00 às 17:00",
+        "lat": -24.57551,
+        "lng": -53.799076,
+        "geocode_confianca": "manual"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "ESFSB Vila Paulista",
+    "tipo": "ESFSB",
+    "url": "https://www.toledo.pr.gov.br/portais/saude/rede-de-atencao-primaria-saude/unidades-basicas-de-saude/esfsb-vila-paulista",
+    "equipes": [
+      "02 Equipes de ESF",
+      "01 Equipe de Odontologia"
+    ],
+    "unidades": [
+      {
+        "nome": "ESFSB VILA PAULISTA",
+        "endereco": "Rua Tomas Gonzaga, 1781 - Vila Paulista",
+        "telefone": "(45) 3196-3355",
+        "whatsapp": "(45) 3196-3355",
+        "email": "ubs.paulista@toledo.pr.gov.br",
+        "gerente": "Gisele Moschen Ortigara",
+        "horario_funcionamento": "Segunda a sexta-feira das 07:45 às 17:00",
+        "lat": -24.74225,
+        "lng": -53.728867,
+        "geocode_confianca": "manual"
+      }
+    ]
+  }
+]

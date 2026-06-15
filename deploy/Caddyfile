@@ -1,0 +1,21 @@
+# Caddyfile — UBS Toledo (site estático + PWA)
+# Troque SEU_DOMINIO_AQUI pelo seu domínio/subdomínio (ex.: ubs.seudominio.com.br).
+# O Caddy provisiona o HTTPS (Let's Encrypt) automaticamente.
+
+SEU_DOMINIO_AQUI {
+	# Pasta onde o repositório foi clonado (os arquivos do site ficam na raiz dele).
+	root * /var/www/ubs-toledo
+	file_server
+	encode gzip zstd
+
+	# PWA: o service worker e o HTML não devem ficar presos em cache do navegador,
+	# senão o usuário continua vendo a versão antiga após um deploy.
+	@sw path /sw.js
+	header @sw Cache-Control "no-cache"
+
+	@html path / *.html
+	header @html Cache-Control "no-cache"
+
+	# Demais assets (css/js/vendor/data/icons) podem ser cacheados; o cache-busting
+	# real vem da troca da versão em sw.js a cada deploy (veja DEPLOY.md).
+}

@@ -1,0 +1,16 @@
+# Caddyfile para uso COM Cloudflare Tunnel.
+# O Caddy serve só HTTP local (localhost:8080); o HTTPS é feito pelo Cloudflare.
+# Não precisa de domínio aqui nem de portas 80/443 abertas.
+
+:8080 {
+	root * /var/www/ubs-toledo
+	file_server
+	encode gzip zstd
+
+	# PWA: não cachear na borda (Cloudflare) nem no navegador os arquivos do app
+	# que mudam a cada deploy — o service worker já cuida do cache offline. Sem isso,
+	# o Cloudflare serve .js/.css antigos por horas e a versão fica presa.
+	# (vendor/ e ícones ficam cacheáveis: são estáveis.)
+	@app path / *.html /sw.js /js/* /css/* /data/* /manifest.webmanifest
+	header @app Cache-Control "no-cache"
+}

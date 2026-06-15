@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0a6b4f"/>
+  <g fill="#ffffff">
+    <!-- pino de localização -->
+    <path d="M256 96c-66 0-120 53-120 119 0 84 120 201 120 201s120-117 120-201c0-66-54-119-120-119z"/>
+    <!-- cruz da saúde (recortada em verde) -->
+    <path fill="#0a6b4f" d="M238 158h36v40h40v36h-40v40h-36v-40h-40v-36h40z"/>
+  </g>
+</svg>

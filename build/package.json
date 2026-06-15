@@ -1,0 +1,10 @@
+{
+  "name": "ubs-toledo-build",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scripts one-time de preparação de dados (não vão para produção)",
+  "dependencies": {
+    "proj4": "^2.11.0"
+  }
+}

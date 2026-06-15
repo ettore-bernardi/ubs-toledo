@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#0a6b4f" />
+  <meta name="description" content="Descubra qual Unidade Básica de Saúde (UBS) atende o seu bairro em Toledo/PR: contatos, endereço, mapa e rota." />
+  <title>UBS Toledo — Encontre sua Unidade de Saúde</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="stylesheet" href="vendor/leaflet.css" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1>UBS Toledo</h1>
+    <button id="btn-instalar" class="btn-instalar" hidden>Instalar app</button>
+  </header>
+
+  <main>
+    <div id="map" role="application" aria-label="Mapa dos bairros de Toledo"></div>
+
+    <!-- Painel inferior: lista de bairros OU detalhe da UBS -->
+    <section id="painel" class="painel" aria-live="polite">
+      <div class="puxador" aria-hidden="true"></div>
+
+      <!-- Visão lista -->
+      <div id="visao-lista" class="visao">
+        <p class="ajuda">Toque no seu bairro no mapa ou busque na lista abaixo.</p>
+        <input id="busca" class="busca" type="search" placeholder="Buscar bairro…"
+               autocomplete="off" aria-label="Buscar bairro" />
+        <ul id="lista-bairros" class="lista-bairros"></ul>
+      </div>
+
+      <!-- Visão detalhe -->
+      <div id="visao-detalhe" class="visao" hidden>
+        <button id="btn-voltar" class="btn-voltar">‹ Voltar à lista</button>
+        <div id="detalhe"></div>
+      </div>
+
+      <footer id="rodape" class="rodape" aria-label="Versão do aplicativo"></footer>
+    </section>
+  </main>
+
+  <script src="vendor/leaflet.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/sw-register.js"></script>
+</body>
+</html>

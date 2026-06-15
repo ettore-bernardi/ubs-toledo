@@ -1,0 +1,16 @@
+# Config do Cloudflare Tunnel. Copiar para /etc/cloudflared/config.yml na VPS.
+# Trocar <TUNNEL_ID> pelo ID gerado em `cloudflared tunnel create ubs-toledo`.
+# O credentials-file é o JSON criado junto com o túnel.
+
+tunnel: 38747d11-aa30-4b3c-8301-426b768239ac
+credentials-file: /root/.cloudflared/38747d11-aa30-4b3c-8301-426b768239ac.json
+
+ingress:
+  - hostname: finance.ettore-bernardi.com
+    service: http://localhost:3000
+
+  - hostname: saude.ettore-bernardi.com
+    service: http://localhost:8080
+
+  # catch-all sempre por último
+  - service: http_status:404

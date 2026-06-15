@@ -1,0 +1,20 @@
+# Dependências instaladas (recriáveis com `npm install` em build/)
+node_modules/
+build/node_modules
+
+# Logs e caches de ferramentas
+npm-debug.log*
+.npm/
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Artefatos intermediários do pipeline de dados (regeráveis)
+build/bairros-wgs84.geojson
