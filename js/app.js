@@ -5,7 +5,7 @@
   // Versão do app, mostrada no rodapé. Mantida em sincronia com a VERSAO do sw.js
   // pelo deploy/bump-sw.sh — assim o rodapé reflete o código que está REALMENTE
   // rodando (se mostrar a versão antiga, o cache antigo ainda está ativo).
-  const APP_VERSION = "ubs-toledo-20260614-220121";
+  const APP_VERSION = "ubs-toledo-20260615-090238";
 
   // Ícones do Leaflet servidos localmente (offline).
   L.Icon.Default.prototype.options.imagePath = "vendor/images/";

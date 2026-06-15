@@ -1,7 +1,7 @@
 /* Service worker — offline-first.
    - App shell + Leaflet + dados: cache-first (pré-cacheados na instalação).
    - Tiles OSM: stale-while-revalidate (cache de runtime separado, limitado). */
-const VERSAO = "ubs-toledo-20260614-220121";
+const VERSAO = "ubs-toledo-20260615-090238";
 const CACHE_SHELL = `${VERSAO}-shell`;
 const CACHE_TILES = `${VERSAO}-tiles`;
 const MAX_TILES = 400;
